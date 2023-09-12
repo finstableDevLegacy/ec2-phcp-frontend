@@ -1,0 +1,18 @@
+{
+  "order": "Order",
+  "merchant_address": "Merchant Address",
+  "merchant_name": "Merchant Name",
+  "copy_payment_url": "Copy payment URL",
+  "cancel": "Cancel",
+  "order_paid_successfully": "Order paid successfully",
+  "order_completed": "Order completed",
+  "order_was_expired": "Order was expired",
+  "order_was_failed": "This order fail , please create new order",
+  "you_recevied": "You received",
+  "product_price": "Product price",
+  "view_detail": "View Detail",
+  "fee": "Fee",
+  "close": "Close",
+  "refresh": "Please wait until the consumer makes a purchase before refreshing to ensure the order was successful."
+
+}

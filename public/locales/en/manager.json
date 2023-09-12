@@ -1,0 +1,156 @@
+{
+  "choose_your_role": "Choose Your Role",
+  "please_bank_account_number": "Please add bank account number",
+  "please_bank_account_name": "Please add bank account name",
+  "please_bank_name": "Please add bank name",
+  "cashier": "Cashier",
+  "manager": "Manager",
+  "profile": "Profile",
+  "merchant_name": "Merchant name",
+  "department_address": "Department address",
+  "firstname": "First name",
+  "lastname": "Last name",
+  "email": "Email",
+  "phone_number": "Phone number",
+  "bank_name": "Bank name",
+  "bank_account_name": "Bank account name",
+  "bank_account_number": "Bank account number",
+  "wallet_address": "Wallet address",
+  "accept_fiat": "Accept fiat",
+  "yes": "Yes",
+  "order_history": "Order History",
+  "create_member_success": "Create member success",
+  "please_fill_out": "Please fill out your information completely.",
+  "first_name": "First name",
+  "last_name": "Last name",
+  "register": "Register",
+  "default_payment_option": "default payment option",
+  "token": "Token",
+  "fiat": "Fiat",
+  "edit_payment_option_success": "update success",
+  "please_try_again_later": "Please try again later",
+  "setting_payment_option": "setting",
+  "submit": "submit",
+  "payment_option": "payment option",
+  "policy": {
+    "header": "Privacy Policy",
+    "accept": {
+      "1": "I read and Accept the privacy policy",
+      "2": "I confirm that all my data filled in the form are true and",
+      "3": "I read and accept the Term and conditions"
+    }
+  },
+  "term_policy": {
+    "1": {
+      "content": {
+        "1": "Welcome to https://phcpay.me, a user interface hosted on a website (the ”Interface” or ”App”) provided by Phuket Holiday Coin Limited, company incorporated in the Republic of Seychelles n. 226566 at House of Francis, Room 303, Ile Du Port, Mahe Glacis, Seychelles, SC, 188976 (”we”, ”our” or ”us”). The interface provides access to a decentralized protocol on Binance Smart Chain that allows suppliers of certain digital assets to participate in standalone interest rate markets as well as liquidity pool-based trading mechanisms (the ”Protocol”).",
+        "2": "This Terms of Service Agreement (the ''Agreement'') explains the terms and conditions under which you may access and use the Interface. You must read this Agreement carefully. By accessing or using the Interface, you declare that you have read, understood and agreed to be bound by this Agreement in its entirety. If you disagree, you are not authorized to access or use the interface.",
+        "3": "This document is intended to formalize the acceptance by RECEIVE to become a partner of the Phuket Holiday Coin Pay - PHCP Crypto System.",
+        "4": "The receive confirms its willingness to enter the Phuket Holiday Coin payment ecosystem circuit with its dedicated PHCP currency, through its dedicated wallet https://phcpay.me"
+      }
+    },
+    "2": {
+      "topic": "1. Modification of this Agreement",
+      "content": {
+        "1": "We reserve the right, in our sole discretion, to amend this Agreement from time to time. If we make any changes, we will notify you by updating the date at the top of the Agreement and by maintaining a current version of the Agreement at https://phcpay.me/terms. All changes will be effective when they are posted and your continued use of the interface will serve as confirmation of your acceptance of those changes. If you disagree with any changes to this Agreement, you must immediately stop accessing and using the Interface."
+      }
+    },
+    "3": {
+      "topic": "2. Eligibility",
+      "content": {
+        "1": "To access or use the Interface, you must be able to enter into a legally binding contract with us. Accordingly, you represent that you are at least eighteen years old and that you have the full right, power and authority to enter into and comply with the terms and conditions of this Agreement on your behalf and on behalf of any company or legal entity that you may access or use the interface. . You further represent that you are not a citizen, resident or member of any jurisdiction or group that is subject to economic sanctions by the British Virgin Islands or where the use of the interface would be illegal or otherwise violate any applicable law. You further declare that access to and use of the Interface will be fully compliant with all applicable laws and regulations and that you will not access or use the Interface to conduct, promote,"
+      }
+    },
+    "4": {
+      "topic": "3. Property Rights",
+      "content": {
+        "1": "We own all intellectual property and other rights in the interface and its contents, including (but not limited to) software, text, images, trademarks, service marks, copyrights, patents and designs. Unless expressly authorized by us, you may not copy, modify, adapt, rent, license, sell, publish, distribute or otherwise allow third parties to access or use the interface or any of its contents. Provided you are eligible, you are granted a single, personal, limited license to access and use the Interface. This license is non-exclusive, non-transferable and freely revocable by us at any time without notice or cause. Use of the Interface or its contents for any purpose not expressly permitted by this Agreement is strictly prohibited. Unlike the interface,"
+      }
+    },
+    "5": {
+      "topic": "4. Privacy",
+      "content": {
+        "1": "We care about your privacy. While we will honor all valid subpoena requests, we will carefully evaluate each request to ensure it is in accordance with the spirit and letter of the law and will not hesitate to contest invalid, extended or unconstitutional requests, as the case may be. We use commercially reasonable safeguards to preserve the integrity and security of personally identifiable information (”PII”) and aggregated data. However, we cannot guarantee that unauthorized third parties will never be able to obtain or use your PII or aggregate data for improper purposes. You acknowledge providing your PII and aggregating the data at your own risk. By accessing and using the Interface, you understand and consent to our collection, use and disclosure of your PII and aggregate data."
+      }
+    },
+    "6": {
+      "topic": "5. Prohibited activity",
+      "content": {
+        "1": "You agree that you will not engage or attempt to engage in any of the following categories of prohibited activities in connection with your access and use of the Interface:",
+        "2": "Infringement of Intellectual Property. Activities that infringe or violate any copyright, trademark, service mark, patent, publicity right, right to privacy, or other proprietary or intellectual property rights under the law.Cyber ​​attack. Activities that seek to interfere with or compromise the integrity, security or proper functioning of any computer, server, network, personal device or other computer system, including (but not limited to) the spread of viruses and Denial of Service attacks .Fraud and misrepresentation. Activity that aims to defraud us or any other person or entity, including (but not limited to) providing false, inaccurate or misleading information in order to illegally gain another's property.Market manipulation. Activities that violate any applicable law, rule or regulation regarding the integrity of the trading markets, including (but not limited to) manipulative tactics commonly known as spoofing and wash trading.Any other illegal conduct. Activities that violate any applicable law, rule or regulation by the Government of Seychelles or any other relevant jurisdiction, including (but not limited to) the restrictions and regulatory requirements imposed by BVI law."
+      }
+    },
+    "7": {
+      "topic": "6. No professional advice",
+      "content": {
+        "1": "All information provided by the interface is for informational purposes only and should not be construed as professional advice. You should not take, or refrain from taking, any action based on any information contained in the Interface. Before making any financial, legal or other decisions involving the Interface, you should seek independent professional advice from a licensed and qualified person in the area for which such advice would be appropriate."
+      }
+    },
+    "8": {
+      "topic": "7. No warranties",
+      "content": {
+        "1": "The interface is provided ”AS IS” and ”AS AVAILABLE”. To the fullest extent permitted by law, we disclaim all representations and warranties of any kind, express, implied or legal, including (but not limited to) the warranties of merchantability and fitness for a particular purpose. You acknowledge and agree that the use of the interface is at your own risk. We do not represent or warrant that access to the Interface will be continuous, uninterrupted, timely or secure; that the information contained in the Interface is accurate, reliable, complete or up-to-date; or that the Interface is free from errors, defects, viruses or other harmful elements. No advice, information or representations made by us should be regarded as a guarantee relating to the Interface. We do not approve, we guarantee,"
+      }
+    },
+    "9": {
+      "topic": "8. No fiduciary duty",
+      "content": {
+        "1": "This Agreement is not intended to create or impose any fiduciary obligations on us. To the fullest extent permitted by law, you acknowledge and agree that we have no fiduciary duty or responsibility to you or any other party and that to the extent such duties or responsibilities may exist by law or in equity, such duties and responsibilities are hereby irrevocably disclaimed, waived and eliminated. You further agree that the only duties and obligations we owe you are those expressly set out in this Agreement."
+      }
+    },
+    "10": {
+      "topic": "9. Compliance obligations",
+      "content": {
+        "1": "The interface is operated by facilities within the British Virgin Islands. The interface may not be available or appropriate for use in other jurisdictions. By accessing or using the Interface, you agree that you are solely and wholly responsible for complying with all laws and regulations that may apply to you. You cannot use the interface if you are a citizen, resident or member of any jurisdiction or group that is subject to economic sanctions by the Government of Seychelles or if using the interface would be illegal or otherwise violate any applicable law. The interface and all its contents are directed exclusively to individuals, companies and other entities based in the Seychelles."
+      }
+    },
+    "11": {
+      "topic": "10. Assumption of risk",
+      "content": {
+        "1": "By accessing and using the interface, you declare that you understand the inherent risks associated with the use of cryptographic and blockchain-based systems and that you have a practical understanding of the use and complexity of digital assets such as Binance Smart Chain Token Standard (BEP-20) . You also understand that the markets for these digital assets are highly volatile due to factors including (but not limited to) adoption, speculation, technology, security and regulation. Recognize that the cost and speed of transactions with cryptographic and blockchain-based systems such as Binance Smart Chain are variable and can increase dramatically at any time. You also recognize the risk that your digital assets may lose some or all of their value while being provided to the Protocol. You further acknowledge that we are not responsible for any of these variables or risks, we do not own or control the Protocol, and cannot be held responsible for any loss resulting from you when accessing or using the interface. Consequently, the user understands and agrees to assume full responsibility for all risks arising from accessing and using the interface and interacting with the protocol."
+      }
+    },
+    "12": {
+      "topic": "11. Third Party Resources and Promotions",
+      "content": {
+        "1": "The interface may contain references or links to third party resources, including (but not limited to) information, materials, products or services, which we do not own or control. Additionally, third parties may offer promotions related to your access and use of the Interface. We do not endorse or assume any responsibility for such resources or promotions. If you access such resources or participate in such promotions, you do so at your own risk and understand that this Agreement does not apply to your dealings or dealings with third parties. You expressly release us from any and all liability arising from your use of such resources or participation in such promotions."
+      }
+    },
+    "13": {
+      "topic": "12. Issue of credits",
+      "content": {
+        "1": "You expressly agree to assume all risks in relation to your access and use of the Interface and your interaction with the Protocol. Furthermore, you expressly waive us and release us from any and all liability, claim, cause of action or damage deriving from or in any way related to your use of the Interface and your interaction with the Protocol."
+      }
+    },
+    "14": {
+      "topic": "13. Indemnification",
+      "content": {
+        "1": "You agree to indemnify, release, defend and indemnify us and our officers, directors, employees, contractors, agents, affiliates and subsidiaries from and against all claims, damages, obligations, losses, liabilities, costs and expenses arising out of: (a) l '' access and use of the interface; (b) your breach of any term or condition of this Agreement, the right of any third party or any other applicable law, rule or regulation; and (c) third party access and use of the Interface with your assistance or use of any device or account that you own or control."
+      }
+    },
+    "15": {
+      "topic": "14. Limitation of Liability",
+      "content": {
+        "1": "In no event shall we or any of our officers, directors, employees, contractors, agents, affiliates or subsidiaries be liable to you for any indirect, punitive, incidental, special, consequential or exemplary damages, including (but not limited to) damages for loss of income, goodwill, use, data or other intangible assets, arising from or relating to any access or use of the Interface, nor will we be liable for any damage, loss or injury resulting from hacking, tampering, or other unauthorized access or use of the Interface or the information contained therein. We assume no responsibility for any: (a) errors, errors or inaccuracies in the content; (b) personal injury or property damage, of any nature, resulting from any access or use of the Interface; (c) the unauthorized access or use of any secure server or database under our control, or the use of any information or data stored therein; (d) interruption or termination of the function relating to the Interface; (e) bugs, viruses, Trojans or similar that may be transmitted to or through the Interface; (f) errors or omissions, or losses or damages suffered as a result of the use of any content made available through the Interface; and (g) the defamatory, offensive or illegal conduct of third parties. In no event shall we or any of our officers, directors, employees, contractors, agents, affiliates or subsidiaries be liable to you for any claims, proceedings, liabilities, obligations, damages, losses or costs exceeding the amount by you. paid to us in exchange for accessing and using the interface, or $ 100.00, whichever is greater. This limitation of liability applies regardless of whether the alleged liability,"
+      }
+    },
+    "16": {
+      "topic": "15. Dispute Resolution",
+      "content": {
+        "1": "We will do our best to resolve any disputes through informal and good faith negotiations. If a potential dispute arises, you should contact us by sending an email to contact@phcpay.me so that we can attempt to resolve it without resorting to formal dispute resolution. If we are unable to reach an informal resolution within sixty days of your email, you and we both agree to resolve the potential dispute according to the procedure described below. Any claim or dispute arising out of or relating to the Interface, this Agreement, or any other act or omission for which you may hold that we are liable, including (but not limited to) any arbitration claim or dispute (” Dispute ”), will be definitively and exclusively resolved by arbitration pursuant to the Arbitration Procedures. You understand that you are required to resolve all disputes by binding arbitration. The arbitration will be held confidentially before a single arbitrator. The arbitration will be held in the Seyshelles Islands, unless you and we agree to hold it elsewhere. Unless otherwise agreed, the arbitrator cannot consolidate your claims with those of any other party. Any judgment on the award made by the arbitrator can be entered in any court of competent jurisdiction. the arbitrator cannot consolidate your claims with those of any other party. Any judgment on the award made by the arbitrator can be entered in any court of competent jurisdiction. the arbitrator cannot consolidate your claims with those of any other party. Any judgment on the award made by the arbitrator can be entered in any court of competent jurisdiction."
+      }
+    },
+    "17": {
+      "topic": "16. Class Action and renunciation of the jury trial",
+      "content": {
+        "1": "You must bring any dispute against us individually and not as a plaintiff or member of any alleged class action, class action, private lawsuit or other representative proceeding. This provision applies to class arbitration. You and both agree to waive the right to request a jury trial."
+      }
+    },
+    "18": {
+      "topic": "17. Applicable law",
+      "content": {
+        "1": "You agree that the laws of the Seyshelles Islands, regardless of conflict of law principles, govern this Agreement and any dispute between you and us. You further agree that the Interface is deemed to be based solely in the British Virgin Islands and that although the Interface may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside the British Virgin Islands. . Any arbitration conducted under this Agreement will be governed by federal arbitration law. You agree that the Seyshelles Islands are the appropriate forum for any appeal against an arbitration award or for legal proceedings in the event that the binding arbitration clause of this Agreement is found to be unenforceable."
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Name",
+  "email": "Email",
+  "phone_number": "Phone Number",
+  "added_date": "Added date",
+  "action": "Action",
+  "success": "Success",
+  "warning": "Warning",
+  "create_member_success": "Create member success",
+  "please_fill_info": "Please fill out the information completely.",
+  "add_member": "Add Member",
+  "first_name": "First name",
+  "last_name": "Last name",
+  "submit": "Submit",
+  "delete": "Delete",
+  "confirm_your_action": "Confirm your action",
+  "are_you_sure": "Are you sure to delete this member ?",
+  "cancel": "Cancel"
+}

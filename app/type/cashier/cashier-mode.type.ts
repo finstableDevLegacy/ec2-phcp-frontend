@@ -1,0 +1,4 @@
+export enum RENDERMODECASHIER {
+  TOKEN,
+  FIAT,
+}

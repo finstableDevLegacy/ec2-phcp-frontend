@@ -1,0 +1,12 @@
+{
+  "order_history": "Order History",
+  "order_id": "Order Id",
+  "tx_hash": "TxHash",
+  "transaction": "Transaction",
+  "date": "Date",
+  "merchant": "Merchant",
+  "product_price": "Product Price",
+  "paid": "Paid",
+  "action": "Action",
+  "view": "View"
+}
